@@ -1,2 +1,2 @@
 # bigquery-t-rkiye-trends
-some studies on BigQuery with data related to Türkiue
+some studies on BigQuery with data related to Türkiye
